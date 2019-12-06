@@ -5,3 +5,5 @@
 - mongoose library
     - creating models
     - data validation and data sanitization
+- Creating a API and setting endpoints to Create tasks and read a single or multiple tasks
+- Integrating Async await to solve issues caused by promise chaining
